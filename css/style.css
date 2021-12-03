@@ -1,0 +1,6 @@
+body {
+    background:-webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,.6)), to(rgba(0,0,0,.5))), url(../img/16.jpg) no-repeat repeat;
+    background:linear-gradient(0deg, rgba(0,0,0,.6), rgba(0,0,0,.5)), url(../img/16.jpg) no-repeat repeat;
+    background-size: cover;
+    color: aliceblue;
+}
