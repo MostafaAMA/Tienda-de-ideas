@@ -1,0 +1,17 @@
+body {
+    background:-webkit-gradient(linear, left bottom, left top, from(rgba(0,0,0,.6)), to(rgba(0,0,0,.5))), url(../img/16.jpg) no-repeat;
+    background:linear-gradient(0deg, rgba(0,0,0,.6), rgba(0,0,0,.5)), url(../img/16.jpg) no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+
+
+section {
+    border:.8px solid #ecf0f1;
+    border-left: 1vw solid #ecf0f1;
+    border-right: 1vw solid #ecf0f1;
+    padding: 1vh 1vw;
+    max-width: 80vw;
+    margin: auto;
+    margin: 5vh auto;
+}
