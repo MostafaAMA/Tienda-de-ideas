@@ -1,9 +1,10 @@
-var section = document.querySelectorAll("section");
+var sections = document.querySelectorAll("section");
+var h2 = document.querySelectorAll("h2");
 
-section.addEventListener('click', () => {
-    if (section.style.display === 'none'){
-        section.style.display = 'block';
+h2.addEventListener('click', () => {
+    if (sections[i].style.display === 'none'){
+        sections[i].style.display = 'block';
     }else {
-        section.style.display = 'none';
+        sections[i].style.display = 'none';
     }
 })

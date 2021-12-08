@@ -13,5 +13,9 @@ section {
     padding: 1vh 1vw;
     max-width: 80vw;
     margin: auto;
-    margin: 5vh auto;
+    margin: 2vh auto;
+}
+
+h2 {
+    margin-top: 5vh;
 }
